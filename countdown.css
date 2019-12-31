@@ -25,6 +25,7 @@ body {
   left: 25%;
   transform: translate(-50%, -50%);
   text-align: center;
+  letter-spacing: 0.1em;
 }
 
 #page h1 {
@@ -36,6 +37,7 @@ body {
 #page h2 {
   color: whitesmoke;
   font-size: 50px;
+  letter-spacing: 0.1em;
 }
 
 .count {
